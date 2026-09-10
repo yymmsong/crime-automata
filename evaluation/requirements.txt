@@ -1,0 +1,4 @@
+crc32c
+matplotlib
+tqdm
+

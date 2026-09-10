@@ -1,0 +1,12 @@
+[submodule "compressors/zlib"]
+	path = compressors/zlib
+	url = https://github.com/madler/zlib.git
+[submodule "compressors/chromium-zlib"]
+	path = compressors/chromium-zlib
+	url = https://chromium.googlesource.com/chromium/src/third_party/zlib
+[submodule "compressors/cloudflare-zlib"]
+	path = compressors/cloudflare-zlib
+	url = https://github.com/cloudflare/zlib.git
+[submodule "compressors/zlib-ng"]
+	path = compressors/zlib-ng
+	url = https://github.com/zlib-ng/zlib-ng.git
